@@ -1,0 +1,6 @@
+customer_id,customer_name,plan_type,bill_date,due_date,payment_date,call_charges,sms_charges,data_charges,total_amount,payment_status
+CUST001,John Smith,Postpaid,2024-01-01,2024-01-15,2024-01-10,12.50,2.00,15.00,29.50,Paid
+CUST002,Sara Ali,Prepaid,2024-01-01,2024-01-15,2024-01-20,5.00,1.00,8.00,14.00,Overdue
+CUST003,Ahmed Khan,Postpaid,2024-01-01,2024-01-15,,20.00,3.50,22.00,45.50,Unpaid
+CUST004,Priya Patel,Prepaid,2024-01-01,2024-01-15,2024-01-14,3.00,0.50,6.00,9.50,Paid
+CUST005,James Wong,Postpaid,2024-01-01,2024-01-15,2024-01-16,18.00,4.00,25.00,47.00,Overdue
